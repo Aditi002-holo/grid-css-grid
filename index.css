@@ -15,7 +15,7 @@ body {
     font-size: 16px;
     font-family: 'ApercuRegular', sans-serif;
     font-weight: lighter;
-    background-color: #f0f5f9;
+    background-color: #c5cdd3;
 }
 
 main {
@@ -26,10 +26,10 @@ main {
 }
 
 main h1 {
-    border: 2px dotted #333;
-    margin: 50px;
+    margin: 20px;
     padding: 20px;
     text-align: center;
+    font-weight: 200;
 }
 
 main ul {
